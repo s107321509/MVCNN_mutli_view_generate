@@ -151,8 +151,11 @@ def do_model(model_path, image_dir):
     for i, c in enumerate(cameras):
         move_camera(c)
         render()
-        save(image_subdir, '%s_%d' % (name, i))
-
+        if(j < 10):
+            imgNum = '0'+str(j)
+        else:
+            imgNum = j
+        save(image_subdir, name+"_0"+str(imgNum))
     delete_model(name)
 
 
