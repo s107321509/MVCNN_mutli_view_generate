@@ -1,7 +1,7 @@
 # Use Blender to generate multi-view insect images from 3D models
 
 This is an output from `airplane.off`:
-<img src="https://drive.google.com/file/d/13hRxOq5FJDE4VGW0yJIsGQklJv-oVvC0/view?usp=sharing">
+<img src="https://drive.google.com/file/d/13hRxOq5FJDE4VGW0yJIsGQklJv-oVvC0/view?usp=sharing" width="800">
 
 We use [blender-off-addon](https://github.com/alextsui05/blender-off-addon) for off importing support.
 
