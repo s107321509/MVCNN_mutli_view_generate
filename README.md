@@ -3,9 +3,8 @@
 This is an output from `Allomyrina_01.`:
 
 <a href="https://ibb.co/vhXn5xT"><img src="https://i.ibb.co/m0NWsC2/Allomyrina-12view.png" alt="Allomyrina-12view" border="0" /></a>
+//We use [blender-off-addon](https://github.com/alextsui05/blender-off-addon) for off importing support.
 
-/*We use [blender-off-addon](https://github.com/alextsui05/blender-off-addon) for off importing support.
-*/
 ## Requirements
  - [Blender](https://www.blender.org/)
 
