@@ -19,7 +19,7 @@ Because the blender install path is various with different OS,  you should assig
 ```
 The followings are examples, you should change the absolute blender install path in win10.
 
-### Single 
+### Single.stl
 Win10:
 
 ```bash
