@@ -1,11 +1,3 @@
-##################################################
-
-Parameters needs to be changed:
-1. line 48&49 output image size 'w' and 'h'
-2. line 164 xx.split('\\') -> '\\' for win10, '/' for ubuntu
-3. command: the path of blender.exe should be changed as needed
-**********************************************************************************'''
-
 import bpy
 import os.path
 import math
@@ -36,7 +28,6 @@ render_setting.resolution_x = w*2
 render_setting.resolution_y = h*2
 
 
-'''****************************************************************'''
 def main():
     argv = sys.argv
     argv = argv[argv.index('--') + 1:]
@@ -53,7 +44,6 @@ def main():
     init_camera()
     fix_camera_to_origin()
 
-    '''*************************************************'''
     if model_path.split('.')[-1] == 'off':
         print('model path is ********', model_path) # model_path:'./airplane.off'
         do_model(model_path, image_dir)
@@ -66,8 +56,6 @@ def main():
     else:
         print('......Please input correct parameters......')
         exit(-1)
-'''****************************************************************'''
-
 
 def install_off_addon():
     try:
