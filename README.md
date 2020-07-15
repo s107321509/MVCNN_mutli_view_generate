@@ -2,7 +2,7 @@
 
 This is an output from `airplane.off`:
 
-<img src="https://github.com/s107321509/Use-blender-generate-multi-view-image-from-3D-model/blob/master/img/Allomyrina_12view.PNG">
+<img src="https://ibb.co/vhXn5xT">
 
 We use [blender-off-addon](https://github.com/alextsui05/blender-off-addon) for off importing support.
 
