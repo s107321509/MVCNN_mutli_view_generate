@@ -23,13 +23,13 @@ The followings are examples, you should change the absolute blender install path
 Win10:
 
 ```bash
-"C:\Program Files\Blender Foundation\Blender\blender.exe" phong.blend --background --python phong.py -- .\\single_off_samples\\airplane_0001.off .\\single_samples_MV
+"C:\Program Files\Blender Foundation\Blender\blender.exe" phong.blend --background --python phong.py -- .\\dataset_samples\\Allomyrina_01.stl .\\single_samples_MV
 ```
 
 Ubuntu:
 
 ```bash
-blender phong.blend --background --python phong.py -- ./single_off_samples/airplane_0001.off ./single_samples_MV
+blender phong.blend --background --python phong.py -- ./dataset_samples/Allomyrina_01.stl ./single_samples_MV
 ```
 
 
