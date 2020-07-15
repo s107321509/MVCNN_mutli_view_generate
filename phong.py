@@ -1,22 +1,3 @@
-'''**********************************************************************************
-THANKS for the work from WeiTang114 (Github:https://github.com/WeiTang114/BlenderPhong)
-The original Blender python script has been rewritten.
-Allows one to input path of single .off file or dataset.txt
-
-      The python script is written in Win10
-
-##################################################
-Usage:
-######### input single .off file path ############
-Win10:
-    "C:\\Program Files\\Blender Foundation\\Blender\\blender.exe" phong.blend --background --python phong.py -- .\\single_off_samples\\airplane_0001.off .\\single_samples_MV
-Ubuntu:
-    blender phong.blend --background --python phong.py -- ./single_off_samples/airplane_0001.off ./single_samples_MV
-######### input dataset.txt file path ############
-Win10:
-    "C:\\Program Files\\Blender Foundation\\Blender\\blender.exe" phong.blend --background --python phong.py -- dataset.txt .\\dataset_samples_MV
-Ubuntu:
-    blender phong.blend --background --python phong.py -- dataset.txt ./dataset_samples_MV
 ##################################################
 
 Parameters needs to be changed:
