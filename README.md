@@ -1,6 +1,6 @@
 # Use Blender to generate multi-view insect images from 3D models
 
-This is an output from `Allomyrina_01.off`:
+This is an output from `Allomyrina_01.`:
 
 <a href="https://ibb.co/vhXn5xT"><img src="https://i.ibb.co/m0NWsC2/Allomyrina-12view.png" alt="Allomyrina-12view" border="0" /></a>
 
