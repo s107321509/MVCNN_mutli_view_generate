@@ -2,7 +2,7 @@
 
 This is an output from `airplane.off`:
 
-<img src="https://ibb.co/vhXn5xT">
+<img src="https://ibb.co/vhXn5xT][img]https://i.ibb.co/m0NWsC2/Allomyrina-12view.png">
 
 We use [blender-off-addon](https://github.com/alextsui05/blender-off-addon) for off importing support.
 
