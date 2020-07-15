@@ -2,6 +2,7 @@
 
 This is an output from `Allomyrina_01.off`:
 ![image](https://drive.google.com/file/d/13hRxOq5FJDE4VGW0yJIsGQklJv-oVvC0/view?usp=sharing)
+<img src="https://drive.google.com/file/d/13hRxOq5FJDE4VGW0yJIsGQklJv-oVvC0/view">
 
 We use [blender-off-addon](https://github.com/alextsui05/blender-off-addon) for off importing support.
 
