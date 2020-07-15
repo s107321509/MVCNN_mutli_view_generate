@@ -1,5 +1,5 @@
 # BlenderPhong
-First, thanks for the work of weitang, this code is revised from https://github.com/WeiTang114/BlenderPhong.
+First, thanks for the work of weitang and zeaggler, this code is revised from https://github.com/WeiTang114/BlenderPhong 、 https://github.com/zeaggler/ModelNet_Blender_OFF2Multiview.
 
 
 
