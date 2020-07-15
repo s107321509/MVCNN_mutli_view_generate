@@ -1,7 +1,4 @@
-# BlenderPhong
-First, thanks for the work of weitang and zeaggler, this code is revised from https://github.com/WeiTang114/BlenderPhong 、 https://github.com/zeaggler/ModelNet_Blender_OFF2Multiview.
-
-
+# Use Blender to generate multi-view insect images from 3D models
 
 This is an output from `airplane.off`:
 
