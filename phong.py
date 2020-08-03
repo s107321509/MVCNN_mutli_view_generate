@@ -52,8 +52,8 @@ render_setting = scene.render
 # output image size = (W, H)
 w = 224
 h = 224
-render_setting.resolution_x = w*3.5
-render_setting.resolution_y = h*3.5
+render_setting.resolution_x = w*2
+render_setting.resolution_y = h*2
 
 
 '''****************************************************************'''
