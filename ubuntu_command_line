@@ -1,0 +1,1 @@
+/home/viplab/桌面/blender-2.79b-linux-glibc219-x86_64/blender phong.blend --background --python phong.py -- dataset.txt ./vipModel_12views
