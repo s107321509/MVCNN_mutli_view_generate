@@ -1,5 +1,0 @@
-.\dataset_samples\Allomyrina\Allomyrina_01.stl
-.\dataset_samples\Dermatoxenus\Dermatoxenus_01.stl
-.\dataset_samples\Lucanidae\Lucanidae_01.stl
-.\dataset_samples\Mecynorhina\Mecynorhina_01.stl
-.\dataset_samples\Mylabris\Mylabris_01.stl
